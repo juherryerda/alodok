@@ -35,6 +35,7 @@ Request Body: application/json
 Request Body Format: {"user_id":""}
 
 Response: application/json
+  
 -------------------------------------------------------------------------
 
 - POST /api/v1/add_to_cart
@@ -47,6 +48,7 @@ Request Body: application/json
 Request Body Format: {"user_id":"","product_id",""}
 
 Response: application/json
+  
 -------------------------------------------------------------------------
 
 - GET /api/v1/detail/<id>
@@ -55,6 +57,7 @@ Description:
 Get detail product
 
 Response: application/json
+  
 -------------------------------------------------------------------------
 
 - GET /api/v1/lists
