@@ -3,6 +3,9 @@
 List of API
 
 
+Run Code:
+python test.py
+
 
 
 - POST /tokens
