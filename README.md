@@ -10,6 +10,7 @@ Description:
 Get session token for further access, valid for 100 sec
 
 Response: application/json
+
 -------------------------------------------------------------------------
 
 - GET /api/v1/cart/detail/<userid>
@@ -20,6 +21,7 @@ Description:
 Get cart information from user
 
 Response: application/json
+
 -------------------------------------------------------------------------
 
 - POST /api/v1/cart/checkout
